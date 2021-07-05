@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @botboty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Very Simple Method
+Soon as Possible...
 
-<!---
-botboty/botboty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Simple Method
+Run on Repl.it
+
+Deploy
